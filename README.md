@@ -1,7 +1,7 @@
 # Pothole-Detection-using-CNN
 
 ## Overview
-This project aims to develop an efficient and accurate pothole detection system using Convolutional Neural Networks (CNN). The model is designed to identify and classify potholes from images, providing a robust solution for road maintenance and safety enhancement. By leveraging deep learning techniques, our system offers superior detection capabilities compared to traditional image processing methods.
+This project aims to develop an efficient and accurate pothole detection system using Convolutional Neural Networks (CNN). The model is designed to identify and classify potholes from images, providing a robust solution for road maintenance and safety enhancement. By leveraging deep learning techniques, our system offers superior detection capabilities compared to traditional image processing methods. Achieved **97.4%** accuracy on the provided test set predictions.
 
 ## Key Features
 **- Accurate Detection:** High precision in identifying potholes in various lighting and weather conditions.
