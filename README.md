@@ -14,3 +14,6 @@ This project aims to develop an efficient and accurate pothole detection system 
 
 **- Extensible Framework:** Modular architecture allowing easy extension and customization.
 
+## Dataset
+**Dataset Link -** https://drive.google.com/file/d/1a8u8BWbKIVPVBXbgXsvfaR_6Pzh7UH4m/view?usp=drive_link
+
